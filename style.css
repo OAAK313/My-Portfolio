@@ -113,7 +113,7 @@ h3 {
   text-align: center;;
 }
 
-img {
+.projectImg {
   background-color: #393e46;
   width: 400px;
   height: 400px;
@@ -125,4 +125,18 @@ img {
   margin-top: -30px;
 }
 
+footer {
+  background-color: #222831;
+  color: #eeeeee;
+  display: flex;
+  gap: 10px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
 
+.footerImg {
+  width: 100px;
+  height: 100px;
+  margin: 25px;
+}
