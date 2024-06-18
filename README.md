@@ -1,2 +1,5 @@
 # Portfolio-1.0
-Web Development Course Project
+
+Basic Portfolio developed using HTML, CSS and JS.
+
+https://oaak313.github.io/Portfolio-1.0/
