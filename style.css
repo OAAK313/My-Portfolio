@@ -2,6 +2,7 @@ body {
   height: 100%;
   width: 100%;
   font-family: "Reddit Mono", "Arial";
+  background-color: #222831;
 }
 
 .main {
